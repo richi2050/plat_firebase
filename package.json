@@ -4,7 +4,8 @@
   "description": "Blog Geek",
   "main": "app/general.js",
   "scripts": {
-    "test": "no test"
+    "test": "no test",
+    "start": "node app/general"
   },
   "repository": {
     "type": "git",

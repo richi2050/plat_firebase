@@ -8,7 +8,7 @@ $(() => {
         const password = $('#passwordReg').val();
         // TODO : LLamar crear cuenta con email
 
-        const auth = Autenticacion()
+        const auth = new Autenticacion()
         auth.crearCuentaEmailPass(email, password, nombres)
     });
 

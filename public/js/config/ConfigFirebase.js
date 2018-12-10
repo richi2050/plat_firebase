@@ -1,4 +1,4 @@
-var config = {
+var varConfig = {
     apiKey: "AIzaSyAAXfWNwnnXIwkCMEvqZSMcwcEW6i9cNDc",
     authDomain: "plat-geekblog.firebaseapp.com",
     databaseURL: "https://plat-geekblog.firebaseio.com",
